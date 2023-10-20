@@ -26,6 +26,10 @@ This repository contains a curated list of papers related to distribution infere
 
 # User Level
 
+- [Subject Membership Inference Attacks in Federated Learning](https://arxiv.org/abs/2206.03317). Anshuman Suri, Pallika Kanani, Virendra J. Marathe, Daniel W. Peterson. arXiv, 2022. 
+- [User Inference Attacks on Large Language Models](https://arxiv.org/abs/2310.09266). Nikhil Kandpal, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Choquette-Choo, Zheng Xu. arXiv, 2023.
+- [FACE-AUDITOR: Data Auditing in Facial Recognition Systems](https://www.usenix.org/conference/usenixsecurity23/presentation/chen-min). Min Chen, Zhikun Zhang, Tianhao Wang, Michael Backes, Yang Zhang. USENIX, 2023. ([code](https://github.com/minChen00/Face-Auditor/))
+
 # Theory
 - [Formalizing and Estimating Distribution Inference Risks](https://petsymposium.org/2022/files/papers/issue4/popets-2022-0121.pdf). Anshuman Suri and David Evans. PETS, 2022. ([code](https://github.com/iamgroot42/FormEstDistRisks))
 - [Protecting Global Properties of Datasets with Distribution Privacy Mechanisms](https://proceedings.mlr.press/v206/chen23f.html). Michelle Chen and Olga Ohrimenko. AISTATS, 2023. ([code](https://github.com/mgcsls/mechanisms-global-properties))
