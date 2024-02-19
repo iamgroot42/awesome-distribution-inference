@@ -32,6 +32,7 @@ This repository contains a curated list of papers related to distribution infere
 - [FACE-AUDITOR: Data Auditing in Facial Recognition Systems](https://www.usenix.org/conference/usenixsecurity23/presentation/chen-min). Min Chen, Zhikun Zhang, Tianhao Wang, Michael Backes, Yang Zhang. USENIX, 2023. ([code](https://github.com/minChen00/Face-Auditor/))
 - [User-Level Membership Inference Attack against Metric Embedding Learning](https://arxiv.org/abs/2203.02077). Guoyao Li, Shahbaz Rezaei, Xin Liu. ICLR PAIR^2Struct Workshop, 2022.
 - [Inference Attacks Against Face Recognition Model without Classification Layers](https://arxiv.org/abs/2401.13719). Yuanqing Huang, Huilong Chen, Yinggui Wang, Lei Wang. arXiv, 2024.
+- [SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems](https://arxiv.org/abs/2309.07983). Guangke Chen, Yedi Zhang, Fu Song. arXiv, 2023.
 
 # Theory
 - [Formalizing and Estimating Distribution Inference Risks](https://petsymposium.org/2022/files/papers/issue4/popets-2022-0121.pdf). Anshuman Suri and David Evans. PETS, 2022. ([code](https://github.com/iamgroot42/FormEstDistRisks))
