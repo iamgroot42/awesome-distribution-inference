@@ -18,7 +18,8 @@ This repository contains a curated list of papers related to distribution infere
 - [Property Inference Attacks on Fully Connected Neural Networks using Permutation Invariant Representations](https://dl.acm.org/doi/abs/10.1145/3243734.3243834). Karan Ganju, Qi Wang, Wei Yang, Carl A. Gunter, Nikita Borisov. CCS, 2018.
 - [Formalizing and Estimating Distribution Inference Risks](https://petsymposium.org/2022/files/papers/issue4/popets-2022-0121.pdf). Anshuman Suri and David Evans. PETS, 2022. ([code](https://github.com/iamgroot42/FormEstDistRisks))
 - [Dissecting Distribution Inference](https://ieeexplore.ieee.org/abstract/document/10136142). Anshuman Suri, Yifu Lu, Yanjin Chen, David Evans. IEEE SaTML, 2023. ([code](https://github.com/iamgroot42/dissecting_dist_inf))
-- [Leakage of Dataset Properties in Multi-Party Machine Learning](https://www.usenix.org/system/files/sec21-zhang-wanrong.pdf). Wanrong Zhang, Shruti Tople, Olga Ohrimenko.
+- [Leakage of Dataset Properties in Multi-Party Machine Learning](https://www.usenix.org/system/files/sec21-zhang-wanrong.pdf). Wanrong Zhang, Shruti Tople, Olga Ohrimenko. USENIX Security 2021.
+- [Correlation Inference Attacks against Machine Learning Models](https://arxiv.org/abs/2112.08806). Ana-Maria Cretu*, Florent Guepin*, and Yves-Alexandre de Montjoye. arxiv, 2021. 
 
 # Poisoning
 - [Property Inference from Poisoning](https://ieeexplore.ieee.org/abstract/document/9833623). Saeed Mahloujifar, Esha Ghosh, Melissa Chase. IEEE S&P, 2022.
