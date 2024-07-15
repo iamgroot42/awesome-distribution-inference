@@ -45,6 +45,6 @@ This repository contains a curated list of papers related to distribution infere
 - [Attesting Distributional Properties of Training Data for Machine Learning](https://arxiv.org/abs/2308.09552). Vasisht Duddu, Anudeep Das, Nora Khayata, Hossein Yalame, Thomas Schneider, N. Asokan. arXiv, 2023. 
 
 # Defenses
-- [Inf2Guard: An Information-Theoretic Framework for Learning Privacy-Preserving Representations against Inference Attacks](https://arxiv.org/pdf/2403.02116). Sayedeh Leila Noorbakhsh, Binghui Zhang, Yuan Hong, Binghui Wang. USENIX, 2024.
+- [Inf2Guard: An Information-Theoretic Framework for Learning Privacy-Preserving Representations against Inference Attacks](https://arxiv.org/pdf/2403.02116). Sayedeh Leila Noorbakhsh, Binghui Zhang, Yuan Hong, Binghui Wang. USENIX, 2024. ([code](https://github.com/leilynourbakhsh/Inf2Guard))
 
 # Others
