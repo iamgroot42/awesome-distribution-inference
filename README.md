@@ -8,6 +8,7 @@ This repository contains a curated list of papers related to distribution infere
 - [User Level](#user-level)
 - [Theory](#theory)
 - [Auditing](#auditing)
+- [Defenses](#defenses)
 - [Others](#others)
 
 # Surveys and Overviews
