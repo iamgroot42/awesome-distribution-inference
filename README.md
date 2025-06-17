@@ -20,7 +20,9 @@ This repository contains a curated list of papers related to distribution infere
 - [Formalizing and Estimating Distribution Inference Risks](https://petsymposium.org/2022/files/papers/issue4/popets-2022-0121.pdf). Anshuman Suri and David Evans. PETS, 2022. ([code](https://github.com/iamgroot42/FormEstDistRisks))
 - [Dissecting Distribution Inference](https://ieeexplore.ieee.org/abstract/document/10136142). Anshuman Suri, Yifu Lu, Yanjin Chen, David Evans. IEEE SaTML, 2023. ([code](https://github.com/iamgroot42/dissecting_dist_inf))
 - [Leakage of Dataset Properties in Multi-Party Machine Learning](https://www.usenix.org/system/files/sec21-zhang-wanrong.pdf). Wanrong Zhang, Shruti Tople, Olga Ohrimenko. USENIX Security 2021.
-- [Correlation Inference Attacks against Machine Learning Models](https://arxiv.org/abs/2112.08806). Ana-Maria Cretu*, Florent Guepin*, and Yves-Alexandre de Montjoye. arxiv, 2021. 
+- [Correlation Inference Attacks against Machine Learning Models](https://arxiv.org/abs/2112.08806). Ana-Maria Cretu*, Florent Guepin*, and Yves-Alexandre de Montjoye. arxiv, 2021.
+- [Data Mixture Inference Attack: BPE Tokenizers Reveal Training Data Compositions](https://neurips.cc/virtual/2024/poster/96046). Jonathan Hayase, Alisa Liu, Yejin Choi, Sewoong Oh, Noah A. Smith. NeurIPS, 2024.
+- [Can We Infer Confidential Properties of Training Data from LLMs?](https://arxiv.org/abs/2506.10364). Pengrun Huang, Chhavi Yadav, Ruihan Wu, Kamalika Chaudhuri. arXiv, 2025.
 
 # Poisoning
 - [Property Inference from Poisoning](https://ieeexplore.ieee.org/abstract/document/9833623). Saeed Mahloujifar, Esha Ghosh, Melissa Chase. IEEE S&P, 2022.
@@ -35,6 +37,7 @@ This repository contains a curated list of papers related to distribution infere
 - [User-Level Membership Inference Attack against Metric Embedding Learning](https://arxiv.org/abs/2203.02077). Guoyao Li, Shahbaz Rezaei, Xin Liu. ICLR PAIR^2Struct Workshop, 2022.
 - [Inference Attacks Against Face Recognition Model without Classification Layers](https://arxiv.org/abs/2401.13719). Yuanqing Huang, Huilong Chen, Yinggui Wang, Lei Wang. arXiv, 2024.
 - [SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems](https://arxiv.org/abs/2309.07983). Guangke Chen, Yedi Zhang, Fu Song. arXiv, 2023.
+- [Subject Data Auditing via Source Inference Attack in Cross-Silo Federated Learning](https://arxiv.org/abs/2409.19417). Jiaxin Li, Marco Arazzi, Antonino Nocera, Mauro Conti. arXiv, 2024.
 
 # Theory
 - [Formalizing and Estimating Distribution Inference Risks](https://petsymposium.org/2022/files/papers/issue4/popets-2022-0121.pdf). Anshuman Suri and David Evans. PETS, 2022. ([code](https://github.com/iamgroot42/FormEstDistRisks))
@@ -43,7 +46,7 @@ This repository contains a curated list of papers related to distribution infere
 
 # Auditing
 - [Black-Box Audits for Group Distribution Shifts](https://arxiv.org/abs/2209.03620). Marc Juarez, Samuel Yeom, Matt Fredrikson. arXiv, 2022. 
-- [Attesting Distributional Properties of Training Data for Machine Learning](https://arxiv.org/abs/2308.09552). Vasisht Duddu, Anudeep Das, Nora Khayata, Hossein Yalame, Thomas Schneider, N. Asokan. arXiv, 2023. 
+- [Attesting Distributional Properties of Training Data for Machine Learning](https://arxiv.org/abs/2308.09552). Vasisht Duddu, Anudeep Das, Nora Khayata, Hossein Yalame, Thomas Schneider, N. Asokan. European Symposium on Research in Computer Security (ESORICS), 2024.
 
 # Defenses
 - [Inf2Guard: An Information-Theoretic Framework for Learning Privacy-Preserving Representations against Inference Attacks](https://arxiv.org/pdf/2403.02116). Sayedeh Leila Noorbakhsh, Binghui Zhang, Yuan Hong, Binghui Wang. USENIX, 2024. ([code](https://github.com/leilynourbakhsh/Inf2Guard))
